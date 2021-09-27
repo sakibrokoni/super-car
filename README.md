@@ -1,16 +1,27 @@
-# Website was Created with React App
+# Website was created with React App
 ### Project Name "Cars Movie"
 
 Project Link [Cars Movie](https://cars-movie-sakibrokoni.netlify.app/).
 
-## Available Scripts
+## Available Resources
 
 There are 5 Folders in the src file .
 - Header
 - DisplayCharacter
 - CharacterDetails
 - Cart
-- character(This file contain fake data)
+- characters
+
+#### Header
+This file contains HeaderImages, Header.js, Header.css
+#### DisplayCharacter
+This file contains  DisplayCharacter.js, DisplayCharacter.css
+#### CharacterDetails
+This file contains  CharacterDetails.js, CharacterDetails.css
+#### Cart 
+This file contains  Cart.js, Cart .css
+#### characters
+-This file contains fake data , which is used as characters.JSON in the public folder. 
 
 In the project directory, you can run:
 

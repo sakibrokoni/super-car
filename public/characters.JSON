@@ -1,0 +1,11 @@
+[
+ {"name":"Chick Hicks","Title":"The runner-Up Thunder","occupation":"Race car","gender":"Male","affiliation":"Hostile Takeover Bank","price":30000,"img":"https://pbs.twimg.com/media/EXg9_h9WoAETvOx.jpg"},
+ {"name":"Lightning McQueen","Title":"Mr. One-man show","occupation":"Race car","gender":"Male","affiliation":"Rust-eze","price":50000,"img":"https://wallpaperaccess.com/full/885638.jpg"},
+ {"name":"Doc Hudson","Title":"The Fabulous Hudson Hornet ","occupation":"Piston Cup champion ","gender":"Male","affiliation":"NA","price":30000,"img":"https://wallpaperaccess.com/full/1955395.jpg"},
+ {"name":"Strip Weathers","Title":"The King","occupation":"Piston Cup champion","gender":"Male","affiliation":"Dinoco","price":40000,"img":"https://i.ytimg.com/vi/63imhylRMes/maxresdefault.jpg"},
+ {"name":"Sarah Sally Carrera","Title":"Sal","occupation":"Motel owner Attorney","gender":"Femle","affiliation":"Smokey","price":60000,"img":"https://i.ytimg.com/vi/ZV9Z_AcsXlU/maxresdefault.jpg"},
+ {"name":"Tow Mater","Title":"Tow truck","occupation":"Tow truck","gender":"Male","affiliation":"C.H.R.O.M.E","price":6000,"img":"https://i.ytimg.com/vi/h3fKFocGkkk/maxresdefault.jpg"},
+ {"name":"Marco Axelbender","Title":"Security officer","occupation":"Piston Cup Security officer","gender":"Male","affiliation":"NA","price":40000,"img":"https://i.ytimg.com/vi/LzYKAfU5bAw/maxresdefault.jpg"},
+ {"name":"Mack Hauler","Title":"Transporter","occupation":"Lightning McQueens transporter","gender":"Male","affiliation":"Rust-eze Medicated","price":50000,"img":"https://s1.dmcdn.net/v/BwPCQ1ViMJ8gZzUOv/x1080"},
+ {"name":"Jackson Storm","Title":"Faster than Lightning","occupation":"Rookie Racer, Fast, Sleek,and Ready to race","gender":"Male","affiliation":"IGNTR","price":60000,"img":"https://www.hollywoodreporter.com/wp-content/uploads/2017/06/c_2.png?w=681&h=383&crop=1"}
+]

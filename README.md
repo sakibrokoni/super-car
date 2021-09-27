@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Website was Created with React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was [Create React App](https://cars-movie-sakibrokoni.netlify.app/).
 
 ## Available Scripts
+
+There are 5 Folders in the src file .
+- Header
+- DisplayCharacter
+- CharacterDetails
+- Cart
+- character[This file contain fake data]
 
 In the project directory, you can run:
 

@@ -1,5 +1,6 @@
 ## This website was made with React App
 ### Project Name "Cars Movie"
+This project is not a responsive website. For better view use laptop/desktop. This project is course related [Programming Hero](https://web.programming-hero.com/) which is a Assignment .
 
 #### Live Server Link [Cars Movie](https://cars-movie-sakibrokoni.netlify.app/)
 ###### Private Repo [LINK](https://github.com/ProgrammingHeroWC4/the-superhero-direction-sakibrokoni)

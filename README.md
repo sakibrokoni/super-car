@@ -1,6 +1,7 @@
 # Website was Created with React App
+### Project Name "Cars Movie"
 
-This project was [Create React App](https://cars-movie-sakibrokoni.netlify.app/).
+Project Link [Cars Movie](https://cars-movie-sakibrokoni.netlify.app/).
 
 ## Available Scripts
 
@@ -9,7 +10,7 @@ There are 5 Folders in the src file .
 - DisplayCharacter
 - CharacterDetails
 - Cart
-- character[This file contain fake data]
+- character(This file contain fake data)
 
 In the project directory, you can run:
 

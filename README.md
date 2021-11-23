@@ -3,7 +3,6 @@
 This project is not a responsive website. For better view use laptop/desktop. This project is [Programming Hero](https://web.programming-hero.com/) course related assignment task .
 
 #### Live Server Link [Cars Movie](https://cars-movie-sakibrokoni.netlify.app/)
-###### Private Repo [LINK](https://github.com/ProgrammingHeroWC4/the-superhero-direction-sakibrokoni)
 
 ## Available Resources
 Open the folder src. You can see 
